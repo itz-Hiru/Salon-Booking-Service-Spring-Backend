@@ -1,19 +1,19 @@
 
-# 💇‍♀️ Salon Booking System - Salon API 💼
+# 💇‍♀️ Salon Booking System - Salon Service API 💼
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=protocols&logoColor=white)
 
-> A backend service built with **Spring Boot** for managing users in a Salon Booking System. This microservice handles salon registration, updating, getting, searching via REST APIs.
+> A backend service built with **Spring Boot** for managing salon services in a Salon Booking System. This microservice handles salon services via REST APIs.
 
 ---
 
 ## 🚀 Features
 
 - ✅ Create a Salon (with validation)
-- 🧑 Salon Management (Update/Fetch user details)
+- 🧑 Salon Management (Update/Fetch details)
 
 ---
 
@@ -91,7 +91,7 @@ You can test APIs using:
 
 ## 📬 Contact
 
-📧 Email: your.email@example.com  
+📧 Email: hirumithakuladewanew@gmail.com  
 🌐 GitHub: [itz-Hiru](https://github.com/itz-Hiru)
 
 ---
